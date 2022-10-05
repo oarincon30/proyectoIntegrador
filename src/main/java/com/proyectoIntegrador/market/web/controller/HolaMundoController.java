@@ -1,4 +1,4 @@
-package com.proyectoIntegrador.market;
+package com.proyectoIntegrador.market.web.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
